@@ -11,10 +11,10 @@
 
 - Open the HTML file:
 
-Open the index.html file in your preferred web browser.
+  Open the index.html file in your preferred web browser.
 
 - Usage
-Move your cursor over the webpage, and notice the dynamic cursor effect following your movements. The webpage features a motivational quote at the center.
+  Move your cursor over the webpage, and notice the dynamic cursor effect following your movements. The webpage features a motivational quote at the center.
 
 - Contributing
-Feel free to contribute to this project. If you have suggestions or improvements, please submit a pull request.
+  Feel free to contribute to this project. If you have suggestions or improvements, please submit a pull request.
