@@ -1,0 +1,41 @@
+* {
+    height: 0;
+    width: 0;
+    box-sizing: border-box;
+    font-family: 'Gilroy';
+    color: #fff;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+#main {
+    background-image: url(./bg1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cursor {
+    height: 50px;
+    width: 50px;
+    background-color: #FFF;
+    mix-blend-mode: exclusion;
+    border-radius: 50%;
+    position: absolute;
+    transition: all linear 0.1s;
+}
+
+h1 {
+    display: contents;
+    font-size: 4vw;
+    font-weight: 800;
+}
